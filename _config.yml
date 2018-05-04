@@ -61,6 +61,10 @@ markdown: kramdown
 
 kramdown:
   input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
   syntax_highlighter: rouge
 
 # port
