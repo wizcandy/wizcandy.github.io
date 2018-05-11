@@ -12,14 +12,14 @@ mathjax: true
 
 ## P1L1 Introduction and Overview
 ### Discipline of SE
-![截图]({{ site.url }}/downloads/img/SE/defineSE.jpg)
+![Overview]{{ site.url }}/downloads/img/SE/defineSE.jpg,"Overview")
 ### Software Development and Process
-({{ site.url }}/downloads/img/SE/SoftwareProcess.jpg)
+![]{({{ site.url }}/downloads/img/SE/SoftwareProcess.jpg)
 ### typical method for Software process
- ({{ site.url }}/downloads/img/SE/methodSE.jpg)
+![]({{ site.url }}/downloads/img/SE/methodSE.jpg)
 ###Software Phase
-({{ site.url }}/downloads/img/SE/SoftwarePhase.png)
+![](({{ site.url }}/downloads/img/SE/SoftwarePhase.png)
 ###Tools of the Trade
-({{ site.url }}/downloads/img/SE/toolchange.png)
-({{ site.url }}/downloads/img/SE/SEtools.png)
+![](({{ site.url }}/downloads/img/SE/toolchange.png)
+![](({{ site.url }}/downloads/img/SE/SEtools.png)
 
