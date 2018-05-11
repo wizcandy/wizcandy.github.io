@@ -12,7 +12,7 @@ mathjax: true
 
 ## P1L1 Introduction and Overview
 ### Discipline of SE
-({{ site.url }}/downloads/img/SE/defineSE.jpg)
+![截图]({{ site.url }}/downloads/img/SE/defineSE.jpg)
 ### Software Development and Process
 ({{ site.url }}/downloads/img/SE/SoftwareProcess.jpg)
 ### typical method for Software process
